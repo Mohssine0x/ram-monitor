@@ -7,7 +7,7 @@ Displays real-time memory usage with color-coded status indicators.
 
 ## Overview
 
-RAM Monitor continuously tracks system memory usage and displays it in the terminal with color-coded output based on consumption levels. It is designed to be simple, cross-platform, and dependency-minimal.
+RAM-Monitor continuously tracks system memory usage and displays it in the terminal with color-coded output based on consumption levels. It is designed to be simple, cross-platform, and dependency-minimal.
 
 ---
 
