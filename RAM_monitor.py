@@ -24,11 +24,11 @@ color_orange = "\033[33m"
 color_light_blue = "\033[94m"
 color_reset = "\033[0m"
 
-runnig = True
+running = True
 
 # Core
 
-while runnig :
+while running :
 
     # Extracting data related to the use of Random Access Memory (RAM).
 
@@ -67,13 +67,13 @@ while runnig :
 
         except KeyboardInterrupt:
 
-            runnig = False
+            running = False
             print()
 
             print(f"{color_orange}Thank you for using PyGeoterm!{color_reset}")
             print(f"{color_orange}Author : https://github.com/MultiRight{color_reset}")
 
-            runnig = False
+            
             break
 
     elif 60 <= percent_ram < 80 :
@@ -95,7 +95,7 @@ while runnig :
             clear()
 
         except KeyboardInterrupt:
-            runnig = False
+            running = False
             print()
 
             print(f"{color_orange}Thank you for using PyGeoterm!{color_reset}")
@@ -123,7 +123,7 @@ while runnig :
             clear()
 
         except KeyboardInterrupt:
-            runnig = False
+            running = False
             print()
 
             print(f"{color_orange}Thank you for using PyGeoterm!{color_reset}")
