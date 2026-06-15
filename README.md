@@ -87,9 +87,7 @@ https://github.com/MultiRight/RAM-monitor
 
 ## Copyright
 
-Copyright © 2026 MultiRight  
-https://github.com/MultiRight
-
+Copyright © 2026 MultiRight https://github.com/MultiRight
 ---
 
 ## Special Thanks
