@@ -33,7 +33,7 @@ ram-monitor continuously tracks system memory usage and displays it in the termi
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/Mohssine0x/ram-monitor
+git clone https://github.com/MohssineX/ram-monitor
 cd ram-monitor
 ```
 
