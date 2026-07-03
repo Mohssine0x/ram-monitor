@@ -1,4 +1,4 @@
-# ram-monitor
+# 💾 ram-monitor
 
 A lightweight terminal utility for monitoring system RAM usage in real time.
 
