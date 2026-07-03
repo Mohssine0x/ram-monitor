@@ -49,6 +49,10 @@ pip install psutil
 ```bash
 python ram-monitor.py
 ```
+> **Tip:** If `python` does not work, try:
+> ```bash
+> python3 ram-monitor.py
+> ```
 
 To stop the monitor, press `Ctrl+C`. A goodbye message will be displayed before exiting.
 
@@ -75,7 +79,12 @@ To stop the monitor, press `Ctrl+C`. A goodbye message will be displayed before 
 
 This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)** 
 
+---
 
+## Author
+
+**Mohssine :**
+[ https://github.com/MohssineX](https://github.com/MohssineX)
 
 ---
 
