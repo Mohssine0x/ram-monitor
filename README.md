@@ -12,7 +12,6 @@ A lightweight terminal utility for monitoring system RAM usage in real time.
 * Live RAM usage percentage
 * Color-coded status indicators
 * Automatic terminal refresh
-* Supports both Linux and Windows
 * Lightweight and easy to use
 
 ## Requirements
@@ -74,6 +73,7 @@ Ctrl + C
 
 * Linux
 * Windows
+* macOS
 
 ANSI color support is enabled automatically on Windows.
 
